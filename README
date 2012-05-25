@@ -1,12 +1,17 @@
 nye.cat colors - SeeStyle for Coda 2
-=============================================
+====================================
 
-This is a color scheme for [Coda 2][http://panic.com/coda/], contributed by [Albert Sunyer][http://nye.cat].
+This is a color scheme for Coda 2 [http://panic.com/coda/], contributed by Albert Sunyer[http://nye.cat].
 
-Here is an [screenshots][http://nye.cat] of the color scheme. To contribute or file bug reports or issues, please visit [the GitHub repo][https://github.com/nye/nye.cat-colors].
+Here are some screenshotss of the color scheme: 
+
+http://stuff.nye.cat/colors/php.png
+http://stuff.nye.cat/colors/html.png
+http://stuff.nye.cat/colors/css.png
+http://stuff.nye.cat/colors/js.png
 
 
 Installation
 ------------
 
-Import via the Coda colors preferences pane.
+Import 'nye.cat.sss' file via the Coda colors preferences pane.
