@@ -1,14 +1,13 @@
-# nye.cat colors - Color Scheme for Coda 2
+## nye.cat colors - Color Scheme for Coda 2
 
-This is a color scheme for Coda 2 [http://panic.com/coda/], contributed by Albert Sunyer [http://nye.cat].
+This is a color scheme for [Coda 2](http://panic.com/coda/), contributed by [Albert Sunyer](http://nye.cat).
 
-## Screenshots:
+## Screenshots
 
 ![Screenshot 1](http://stuff.nye.cat/colors/php.png)
 ![Screenshot 2](http://stuff.nye.cat/colors/html.png)
 ![Screenshot 3](http://stuff.nye.cat/colors/css.png)
 ![Screenshot 4](http://stuff.nye.cat/colors/js.png)
-
 
 ## Installation
 
